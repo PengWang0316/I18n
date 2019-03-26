@@ -50,4 +50,4 @@ const YourComponent = () => <button>{I18n.get('login')}</button>;
 
 # License
 
-Log is licensed under MIT License - see the [License file](https://github.com/PengWang0316/I18n/blob/master/LICENSE).
+I18n is licensed under MIT License - see the [License file](https://github.com/PengWang0316/I18n/blob/master/LICENSE).
